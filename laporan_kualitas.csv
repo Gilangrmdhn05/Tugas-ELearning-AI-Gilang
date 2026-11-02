@@ -1,0 +1,17 @@
+,sebelum,sesudah
+n_baris,5000,5000
+n_duplikat,0,0
+n_missing,1638,0
+n_outlier,"lama_berlangganan_bulan           0
+tagihan_bulanan_idr               0
+total_tagihan_idr                55
+jumlah_layanan_aktif              0
+jumlah_komplain                   0
+hari_sejak_interaksi_terakhir     0
+dtype: int64","lama_berlangganan_bulan          0
+tagihan_bulanan_idr              0
+total_tagihan_idr                0
+jumlah_layanan_aktif             0
+jumlah_komplain                  0
+hari_sejak_interaksi_terakhir    0
+dtype: int64"
